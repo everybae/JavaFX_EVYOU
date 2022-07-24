@@ -1,7 +1,7 @@
 # JavaFX_EVYOU   
 개발환경   
-개발툴 - Eclipse   
-language - Java 1.8, Scene Builder  
+개발툴 - Eclipse, Scene Builder    
+language - Java 1.8 
 DB - Oracle 11g   
 OS - Win 10  
   
